@@ -1,0 +1,32 @@
+{
+	"LOADING": "Startuji &hellip;",
+
+	"TODAY": "Dnes",
+	"TOMORROW": "Zítra",
+	"DAYAFTERTOMORROW": "Pozítří",
+	"RUNNING": "Končí za",
+	"EMPTY": "Žádné nadcházející události.",
+
+	"WEEK": "Týden",
+
+	"N": "S",
+	"NNE": "SSV",
+	"NE": "SV",
+	"ENE": "VSV",
+	"E": "V",
+	"ESE": "VJV",
+	"SE": "JV",
+	"SSE": "JJV",
+	"S": "J",
+	"SSW": "JJZ",
+	"SW": "JZ",
+	"WSW": "ZJZ",
+	"W": "Z",
+	"WNW": "ZSZ",
+	"NW": "SZ",
+	"NNW": "SSZ",
+
+	"UPDATE_NOTIFICATION": "Je dostupná aktualizace MagicMirror².",
+	"UPDATE_NOTIFICATION_MODULE": "Dostupná aktualizace modulu MODULE_NAME.",
+	"UPDATE_INFO": "Aktuálně nainstalovaná verze je COMMIT_COUNT oproti BRANCH_NAME."
+}
